@@ -9,9 +9,14 @@ ESP32 dI2C (differntial I2C) Hub for Sensor Networking.
 ### Project Ownership
 
 This repository is hosted to the PCB desiber([DumTux](https://github.com/dumtux))'s GitHub account for backup.
-The copyright of this hardware design is owned by [BUILDING OPTIMIZATION TECHNOLOGIES ™](https://www.bldgot.com/).
+The copyright of this hardware design is owned by [BUILDING OPTIMIZATION TECHNOLOGIES ™][bldgot].
 
 ### Sponsors:
 
-* [BUILDING OPTIMIZATION TECHNOLOGIES ™](https://www.bldgot.com/)
-* [PCBCrew ™](https://pcbcrew.com/)
+* [BUILDING OPTIMIZATION TECHNOLOGIES ™][bldgot]
+* [PCBCrew ™][pcbcrew]
+
+---
+
+[pcbcrew]: https://pcbcrew.com
+[bldgot]: https://www.bldgot.com
