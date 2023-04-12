@@ -1,4 +1,6 @@
-# PCBCrew ™ BLDGOT ™ ESP32 dI2C Hub
+# PCBCrew ™ ESP32 dI2C Hub
+
+> Designed for [BUILDING OPTIMIZATION TECHNOLOGIES ™][bldgot]
 
 ESP32 dI2C (differntial I2C) Hub for Sensor Networking.
 
